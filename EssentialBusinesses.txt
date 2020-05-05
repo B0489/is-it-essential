@@ -1,0 +1,275 @@
+Health Care:
+
+    Research and Laboratory Services
+        SIC Code 8071 - Medical Laboratories
+        SIC Code 8734 - Testing Laboratories
+    Hospitals
+        SIC Code 8062 - General Medical and Surgical Hospitals
+        SIC Code 8069 - Specialty Hospitals, except Psychiatric
+    Walk-In-Care Health Facilities
+        *SIC Code 8093 - Specialty Outpatient Facilities, Not Elsewhere Classified
+    Emergency Veterinary and Livestock Services
+        SIC Code 0741 - Veterinary Services for Livestock
+        SIC Code 0742 - Veterinary Services for Animal Specialties
+    Senior / Elder Care
+        SIC Code 8361 - Residential Care
+    Medical Wholesale and Distribution
+        SIC Code 5047 - Medical, Dental, and Hospital Equipment and Supplies
+    Home Health Care Workers or Aides for the Elderly
+        SIC Code 8082 - Home Health Care Services
+    Doctor and Emergency Dental
+        SIC Code 8011 - Offices and Clinics of Doctors of Medicine
+        SIC Code 8021 - Offices and Clinics of Dentists
+    Nursing Homes, or Residential Health Care Facilities or Congregate Care Facilities
+        SIC Code 8051 - Skilled Nursing Care Facilities
+        SIC Code 8052 - Intermediate Care Facilities
+        SIC Code 8059 - Nursing and Personal Care Facilities, Not Elsewhere Classified
+    Medical Supplies and Equipment Manufacturers and Providers
+        SIC Code 3841 - Surgical and Medical Instruments and Apparatus
+        SIC Code 3842 - Orthopedic, Prosthetic, and Surgical Appliances and Supplies
+        SIC Code 7352 - Medical Equipment Rental and Leasing
+    Licensed Mental Health Providers
+        *SIC Code 8049 - Offices and Clinics of Health Practitioners, Not Elsewhere Classified
+    Licensed Substance Abuse Treatment Providers
+        *SIC Code 8093 - Specialty Outpatient Facilities, Not Elsewhere Classified
+    Emergency Chiropractic Services
+        SIC Code 8041 - Offices and Clinics of Chiropractors
+    Physical Therapy, Prescribed by Medical Professional
+        *SIC Code 8049 - Offices and Clinics of Health Practitioners, Not Elsewhere Classified
+    Occupational Therapy, Prescribed by Medical Professional
+        *SIC Code 8049 - Offices and Clinics of Health Practitioners, Not Elsewhere Classified
+    Medical Billing Support Personnel
+        *SIC Code 6324 - Hospital and Medical Service Plans
+>
+Infrastructure:
+
+    Public and Private Utilities Including but not Limited to Power Generation, Fuel Supply and Transmission
+        SIC Code 49 - Electric, Gas and Sanitary Services
+        SIC Code 46, Pipelines Except Natural Gas
+    Public Water and Wastewater
+        SIC Code 4941 - Water Supply
+        SIC Code 4952 - Sewerage Systems
+    Telecommunications and Data Centers
+        SIC Code 48 - Communications
+        SIC Code 7374 - Computer Processing and Data Preparation and Processing
+    Airports/Airlines
+        SIC Code 45 - Transportation by Air
+    Commercial Shipping Vessels / Ports and Seaports
+        SIC Code 44 - Water Transportation
+    Transportation Infrastructure such as bus, rail, or for-hire vehicles, garages
+        SIC Code 40 - Railroad Transportation
+        SIC Code 41 - Local and Suburban Transit and Interurban Highway Passenger Transportation
+        SIC Code 42 - Motor Freight Transportation and Warehousing
+        SIC Code 43 - United States Postal Service
+        *SIC Code 47 - Transportation Services
+        SIC Code 7521 - Automobile Parking
+    Hotels, and Places of Accommodation
+        SIC Code 7011 - Hotels and Motels
+        *SIC Code 7021 - Rooming and Boarding Houses
+>
+Manufacturing:
+
+    Food Processing, Manufacturing Agents, Including All Foods and Beverages
+        SIC Code 20 - Food and Kindred Products
+    Chemicals
+        SIC Code 28 - Chemicals and Allied Products
+    Medical Equipment / Instruments
+        SIC Code 384 - Surgical, Medical, and Dental Instruments and Supplies
+    Pharmaceuticals
+        *SIC Code 2844 - Perfumes, Cosmetics, and other Toilet Preparations
+        SIC Code 2834 - Pharmaceutical Preparations
+    Sanitary Products Including Personal Care Products Regulated by the Food and Drug Administration
+        SIC Code 2676 - Sanitary Paper Products
+    Telecommunications
+        SIC Code 3661 - Telephone and Telegraph Apparatus
+        SIC Code 3663 - Radio and Television Broadcasting and Communications Equipment
+        SIC Code 3669 - Communications Equipment, Not Elsewhere Classified
+    Microelectronics/Semi-conductor
+        SIC Code 367 - Electronic Components and Accessories
+    Food-Producing Agriculture/Farms
+        *SIC Code 01-09 - Agriculture, Forestry, Fishing
+        SIC Code 3523 - Farm Machinery and Equipment
+    Household Paper Products
+        SIC Code 2679 - Converted Paper and Paperboard Products, Not Elsewhere Classified
+        SIC Code 2676 - Sanitary Food Containers, Except Folding
+        SIC Code 2657 - Folding Paperboard Boxes, Including Sanitary
+    Automobile
+        SIC Code 3711 - Motor Vehicles and Passenger Car Bodies
+        SIC Code 3713 - Truck and Bus Bodies
+    Any Parts or Components Necessary for Essential Products that are Referenced Within this Guidance
+    Defense Industry and the Transportation Infrastructure
+>
+Retail:
+
+    Grocery Stores Including All Food and Beverage Stores
+        SIC Code 5411 - Grocery Stores
+        SIC Code 5141 - Groceries, General Line
+        SIC Code 5149 - Groceries and Related Products, Not Elsewhere Classified
+        SIC Code 5921 - Liquor Stores
+        SIC Code 5499 - Miscellaneous Food Stores
+    Pharmacies
+        SIC Code 5912 - Drug Stores and Proprietary Stores
+    Convenience Stores
+        SIC Code 5411 - Grocery Stores
+    Farmer's Markets
+        SIC Code 5431 - Fruit and Vegetable Markets
+    Gas Stations
+        SIC Code 5541 - Gasoline Service Stations
+    Restaurants / Bars (but only for take-out / delivery)
+        SIC Code 5812 - Eating Places
+        SIC Code 5813 - Drinking Places (Alcoholic Beverages)
+    Pet Food
+        *SIC Code 5999 - Miscellaneous Retail Stores, Not Elsewhere Classified
+    Telecommunications to Service Existing Customers and Accounts - Delivery for Orders Placed Remotely Via Phone or Online at Non-Essential Retail Establishments; provided, however, that Only One Employee is Physically Present at the Business Location to Fulfill Orders
+    Hardware, Appliance and Building Material Stores
+        SIC Code 5211 - Lumber and other Building Materials Dealers
+        SIC Code 5231 - Paint, Glass, and Wallpaper Stores
+        SIC Code 5251 - Hardware Stores
+        SIC Code 5261 - Retail Nurseries, Lawn and Garden Supply Stores
+        SIC Code 5722 - Household Appliance Stores
+        *SIC Code 5064 - Electrical Appliances, Television and Radio Sets
+>
+Services:
+
+    Trash and Recycling Collection, Processing and Disposal
+        SIC Code 4953 - Refuse Systems
+    Mail and Shipping Services
+        SIC Code 4215 - Courier Services, Except by Air
+        SIC Code 4783 - Packing and Crating
+    Laundromats and other Clothing / Fabric Cleaning Services
+        SIC Code 7211 - Power Laundries, Family and Commercial
+        SIC Code 7215 - Coin-Operated Laundries and Drycleaning
+    Building Cleaning and Maintenance
+        *SIC Code 7349 - Building Cleaning and Maintenance Services, Not Elsewhere Classified
+        SIC Code 7217 - Carpet and Upholstery Cleaning
+    Child Care Services
+        SIC Code 8351 - Child Day Care Services
+    Bicycle Repair
+        *SIC Code 7699 - Repair Shops and Related Services, Not Elsewhere Classified
+    Auto Repair
+        SIC Code 753 - Automotive Repair Shops
+    Automotive Sales Conducted Remotely or Electronically, with In-Person Vehicle Return and Delivery by Appointment Only
+        SIC Code 5511 - Motor Vehicle Dealers (New and Used)
+        SIC Code 5521 - Motor Vehicle Dealers (Used Only)
+    Warehouse / Distribution and Fulfillment
+        SIC Code 422 - Public Warehousing and Storage
+    Funeral Homes, Crematoriums and Cemeteries
+        SIC Code 7261 - Funeral Service and Crematories
+        SIC Code 6553 - Cemetery Subdividers and Developers
+    Storage for Essential Businesses
+        *SIC Code 422 - Public Warehousing and Storage
+    Maintenance for the Infrastructure of the Facility or to Maintain or Safeguard Materials or Products Therein
+    Landscaping, but only for Maintenance or Pest Control and Not Cosmetic Purposes
+        SIC Code 0782 - Lawn and Garden Services
+    Designing, Printing, Publishing and Signage Companies to the Extent that they Support Essential Businesses or Services
+    Remote Instruction or Streaming of Classes from Public or Private Schools or Health/Fitness Centers, provided, however, that No In-Person Congregate Classes are Permitted
+    Animal Shelters
+        *SIC Code 0752 - Animal Specialty Services, except Veterinary
+>
+Media:
+
+    SIC Code 2711 - Newspapers: Publishing, or Publishing and Printing
+    SIC Code 5944 - News Dealers and Newsstands
+    SIC Code 7383 - News Syndicates
+>
+Financial Institutions:
+
+    Banks or Lending Institution
+        SIC Code 60 - Depository Institutions
+        SIC Code 6141 - Personal Credit Institutions
+    Insurance
+        SIC Code 63 - Insurance Carriers
+        SIC Code 6411 - Insurance Agents, Brokers and Service
+    Payroll
+        SIC Code 8721 - Accounting, Auditing, and Bookkeeping Services
+    Accounting
+        SIC Code 8721 - Accounting, Auditing, and Bookkeeping Services
+    Services Related to Financial Markets
+        SIC Code 62 - Security and Commodity Brokers, Dealers, Exchanges, and Services
+>
+Social Services:
+
+    Homeless Shelters and Congregate Care Facilities
+        *SIC Code 8322 - Individual and Family Social Services
+        *SIC Code 8361 - Residential Care
+    Food Banks
+        *SIC Code 8322 - Individual and Family Social Services
+    Human Services Providers Whose Function Includes the Direct Care of Patients in State-Licensed or Funded Voluntary Programs; the Care, Protection, Custody and Oversight of Individuals Both in the Community and in State-Licensed Residential Facilities; Those Operating Community Shelters and Other Critical Human Services Agencies Providing Direct Care or Support
+        SIC Code 9431 - Administration of Public Health Programs
+>
+Construction:
+
+    All Non-Essential Construction Must Shut Down Except Emergency Construction, (e.g. a Project Necessary to Protect the Health and Safety of the Occupants, or to Continue a Project if it would be Unsafe to Allow to Remain Undone, but Only to the Point that it is Safe to Suspend Work).
+    Essential construction includes:
+        construction for, or your business provides necessary support for construction projects involving, roads, bridges, transit facilities, utilities, hospitals or healthcare facilities, homeless shelters, or public or private schools;
+        construction for affordable housing, as defined as construction work where either (i) a minimum of 20% of the residential units are or will be deemed affordable and are or will be subject to a regulatory agreement and/or a declaration from a local, state, or federal government agency or (ii) where the project is being undertaken by, or on behalf of, a public housing authority;
+        construction necessary to protect the health and safety of occupants of a structure;
+        construction necessary to continue a project if allowing the project to remain undone would be unsafe, provided that the construction must be shut down when it is safe to do so;
+        construction for projects in the energy industry in accordance with Question No. 14 in the FAQ at: https://esd.ny.gov/sites/default/files/ESD_EssentialEmployerFAQ_033120.pdf;
+        construction for existing (i.e. currently underway) projects of an essential business; or
+        construction work that is being completed by a single worker who is the sole employee/worker on the job site.
+    At every site, it is required that the personnel working on the site maintain an appropriate social distance, including for purposes of elevators/meals/entry and exits. Sites that cannot maintain appropriate social distancing, as well as cleaning/disinfecting protocols must close. Enforcement will be conducted by state and local governments, including fines up to $10,000 per violation.
+    Construction may continue solely with respect to those employees that must be present at the business location/construction site in support of essential business activities. No other employees/personnel shall be permitted to work in-person at the business location/construction site. Any other business activities being completed that are not essential are still subject to the restrictions provided by Executive Order 202.
+    As noted above, local governments, including municipalities and school districts, are allowed to continue construction projects at this time as government entities are exempt from these essential business restrictions. However, to the greatest extent possible, local governments should postpone any non-essential projects and only proceed with essential projects when they can implement appropriate social distancing and cleaning/disinfecting protocols. Essential projects should be considered those that have a nexus to health and safety of the building occupants or to support the broader essential services that are required to fulfill the critical operations of government or the emergency response to the COVID-19 public health crisis.
+        *SIC Code 17 - Construction Special Trade Contractors
+        *SIC Code 15 - Building Construction General Contractors and Operative Builders
+        *SIC Code 16 - Heavy Construction other than Building Construction Contractors
+>
+Defense:
+
+    Defense and National Security-Related Operations Supporting the U.S. Government or a Contractor to the U.S. Government
+        SIC Code 97 - National Security and International Affairs
+>
+Sanitation and Safety:
+
+    Law Enforcement, Including Corrections and Community Supervision
+        SIC Code 9221 - Police Protection
+        SIC Code 8744 - Facilities Support Management Services
+        SIC Code 9223 - Correctional Institutions
+    Fire Prevention and Response
+        SIC Code 9224 - Fire Protection
+    Building Code Enforcement
+        *SIC Code 7389 - Business Services, Not Elsewhere Classified
+    Security
+        SIC Code 7381 - Detective, Guard, and Armored Car Services
+    Emergency Management and Response, EMS and 911 Dispatch
+        *SIC Code 9229 - Public Order and Safety, Not Elsewhere Classified
+    Building Cleaners or Janitors
+        *SIC Code 7349 - Building Cleaning and Maintenance Services, Not Elsewhere Classified
+        SIC Code 7217 - Carpet and Upholstery Cleaning
+        *SIC Code 7342 - Disinfecting and Pest Control Services
+    General Maintenance Whether Employed by the Entity Directly or a Vendor
+        *SIC Code 7349 - Building Cleaning and Maintenance Services, Not Elsewhere Classified
+    Automotive Repair
+        SIC Code 753 - Automotive Repair Shops
+    Disinfection
+        *SIC Code 7342 - Disinfecting and Pest Control Services
+    Residential Moving Services
+        SIC Code 4214 - Local Trucking with Storage
+        SIC Code 4212 - Local Trucking without Storage
+>
+Vendors:
+
+    Logistics
+        SIC Code 4731 - Arrangement of Transportation of Freight and Cargo
+    Technology Support for Online Services
+        SIC Code 7379 - Computer Related Services, Not Elsewhere Classified
+    Child Care Programs and Services
+        SIC Code 8351 - Child Day Care Services
+    Government Owned or Leased Buildings
+    Essential Government Services
+        SIC Codes 91-99 - Public Administration
+    Any Personnel Necessary for On-Line or Distance Learning or Classes Delivered Via Remote Means
+>
+Recreation:
+
+    Parks and Other Open Public Spaces, Except Playgrounds and Other Areas of Congregation where Social Distancing Cannot be Abided
+    However, golf courses are not essential and cannot have employees working on-premise; notwithstanding this restriction, essential services, such as groundskeeping to avoid hazardous conditions and security, provided by employees, contractors, or vendors are permitted and private operators may permit individuals access to the property so long as there are no gatherings of any kind and appropriate social distancing of six feet between individuals is strictly abided.
+    Marinas, boatyards, and recreational marine manufacturers, for ongoing marina operations and boat repair/maintenance, where such facilities adhere to strict social distancing and sanitization protocols. Use of such sites for the purposes of personal use or operation of boats or other watercraft is permissible, provided that no establishment offer chartered watercraft services or rentals. Restaurant activity at such sites are limited to take-out or delivery only.
+        SIC Code 4493 - Marinas
+>
+Professional Services:
+
+        SIC Code 8111 - Legal Services -     Lawyers may continue to perform all work necessary for any service so long as it is performed remotely. Any in-person work presence shall be limited to work only in support of essential businesses or services; however, even work in support of an essential business or service should be conducted as remotely as possible.
+        SIC Code 65 - Real Estate - Real estate services shall be conducted remotely for all transactions, including but not limited to title searches, appraisals, permitting, inspections, and the recordation, legal, financial and other services necessary to complete a transfer of real property; provided, however, that any services and parts therein may be conducted in-person only to the extent legally necessary and in accordance with appropriate social distancing and cleaning/disinfecting protocols; and nothing within this provision should be construed to allow brokerage and branch offices to remain open to the general public (i.e. not clients).
+>
